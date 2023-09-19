@@ -1,2 +1,8 @@
-# mp_prog4_files
-files needed for program 4.
+Program #4
+
+Name:
+Cosc 5730 or 4730
+
+Description: (how to run the program, phone/emulator screen size, pixel 4a)
+
+Anything that doesn't work:
